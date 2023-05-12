@@ -9,7 +9,6 @@ rd="\033[1;31m" # Red
 gr="\033[1;32m" # Green
 yl="\033[1;33m" # Yellow
 pu='\033[1;35m' # pu
-
 while True :
     os.system('clear')
     print(gr,'''                                # Info Tool #
@@ -30,7 +29,6 @@ while True :
                         |_| |_|\___/|_|  |_|____|
 
 ''')
-
     print('\n','-'*50,'\n')
     print(yl,'1) Termux password \n')
     print(gr,'2) remove password \n')
