@@ -1,4 +1,4 @@
-# facebook : https://www.facebook.com/profile.php?id=100018564715368 
+# facebook : https://is.gd/EDxe18 
 #
 import os
 os.system('clear')
