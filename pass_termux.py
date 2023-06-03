@@ -49,7 +49,7 @@ while True :
 ''')
         #---------------------------------------
         motd=open('/data/data/com.termux/files/usr/etc/motd','w')
-        motd.write('    -------------------------- Welkom to Termux -----------------------------')
+        motd.write(' -------------------------- Welkom to Termux -------------------------')
         motd.close()
         code_run='/data/data/com.termux/files/usr/etc/bash.bashrc'
         pw='/data/data/com.termux/files/usr/etc'
